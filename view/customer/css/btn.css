@@ -1,0 +1,20 @@
+.cartBtn {
+  background-color: transparent;
+  border: 1px solid #f12f21;
+  display: inline-block;
+  cursor: pointer;
+  color: #000000;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 13px 25px;
+  text-decoration: none;
+}
+.cartBtn:hover {
+  background-color: #f12f21;
+  color: #fff;
+}
+.cartBtn:active {
+  position: relative;
+  top: 1px;
+}
